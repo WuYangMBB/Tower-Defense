@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 61260e3766487b24583931808e59c930
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MyGUI_BlackOrangeSkins_0
+    21300002: MyGUI_BlackOrangeSkins_1
+    21300004: MyGUI_BlackOrangeSkins_2
+    21300006: MyGUI_BlackOrangeSkins_3
+    21300008: MyGUI_BlackOrangeSkins_4
+    21300010: MyGUI_BlackOrangeSkins_5
+    21300012: MyGUI_BlackOrangeSkins_6
+    21300014: MyGUI_BlackOrangeSkins_7
+    21300016: MyGUI_BlackOrangeSkins_8
+    21300018: MyGUI_BlackOrangeSkins_9
+    21300020: MyGUI_BlackOrangeSkins_10
+    21300022: MyGUI_BlackOrangeSkins_11
+    21300024: MyGUI_BlackOrangeSkins_12
+    21300026: MyGUI_BlackOrangeSkins_13
+    21300028: MyGUI_BlackOrangeSkins_14
+    21300030: MyGUI_BlackOrangeSkins_15
+    21300032: MyGUI_BlackOrangeSkins_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 4
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 124
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 191
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 233
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 187
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 164
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 224
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 234
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 210
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 186
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 176
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 203
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 230
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 230
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 230
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MyGUI_BlackOrangeSkins_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 203
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
